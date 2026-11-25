@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "12.2.2"
+  version: "13.1"
 
 package:
   name: pyobjc-framework-phase
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyobjc-framework-PHASE/pyobjc_framework_phase-${{ version }}.tar.gz
-  sha256: 6afcfbf754d9959398ccd323e23042afff151c46559af75f7df63a07bf72ca48
+  sha256: a4bcd0d9bbb1d370d7175896911adc076085657de06dbf8e33a2a3d2a6865fab
 
 build:
   number: 0
